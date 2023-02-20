@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgavin0813&label=Profile%20views&color=0e75b6&style=flat" alt="sgavin0813" /> </p>
 
-- 🔭 I’m currently working on **Android app to record my workout progress**
+- 🔭 I’m currently working on **Android app to record my progress at the gym**
 
 - 🌱 I’m currently learning **Android app development using Kotlin**
 
