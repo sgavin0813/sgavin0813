@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sgavin0813](https://github.com/sgavin0813)
 
-- 📝 I regularly write articles on [https://singhing.netlify.app/](https://singhing.netlify.app/)
+- 📝 My portfolio -> [https://singhing.netlify.app/](https://singhing.netlify.app/)
 
 - 📫 How to reach me **s.gavin0813@gmail.com**
 
