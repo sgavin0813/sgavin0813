@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **s.gavin0813@gmail.com**
 
-- ⚡ Fun fact **I live working on cars**
+- ⚡ Fun fact **I like working on cars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
